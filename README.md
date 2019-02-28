@@ -1,6 +1,8 @@
 # PottJS-AR
 AR React Native Project from PottJs Feb. 2019
 
+You can get all the assets I used over here: https://docs.viromedia.com/docs/assets
+
 <img src="https://raw.githubusercontent.com/parideis/PottJS-AR/master/screenshot-pottjs.png">
 
 [Sign up](https://viromedia.com/signup) for an API key. The platform is free to use with no limits on distribution.
